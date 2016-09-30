@@ -2,7 +2,7 @@
 
 This is a Proxy Server for Node.js [pre-work](http://courses.codepath.com/snippets/intro_to_nodejs/prework) requirement for CodePath.
 
-Time spent: 1.5
+Time spent: 1.5 hours
 
 Completed:
 
